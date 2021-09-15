@@ -1,1 +1,2 @@
-# samp
+# samp repository  
+new for azure
